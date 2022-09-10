@@ -1,5 +1,5 @@
 module.exports = {
-	content: ["./dist/*.html", "./dist/bundle.js", "./src/index.js"],
+	content: ["./dist/*.html", "./dist/bundle.js", "./src/*.js"],
 	theme: {
 		extend: {},
 	},
