@@ -55,13 +55,15 @@ allTabs.forEach((tab) => {
 	tab.classList.add(
 		"bg-amber-500",
 		"rounded-xl",
-		"h-10",
-		"w-20",
+		"h-12",
+		"w-35",
 		"grid",
 		"justify-center",
 		"items-center",
 		"cursor-pointer",
-		"hover:bg-amber-500"
+		"hover:bg-amber-500",
+		"m-auto",
+		"px-8"
 	);
 });
 /* #endregion */
