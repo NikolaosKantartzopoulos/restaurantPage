@@ -7,6 +7,7 @@ export let renderContactTab = function () {
 		"items-center",
 		"justify-around"
 	);
+	document.querySelector("#contactTabID").classList.add("bg-amber-500");
 	let left_div = document.createElement("div");
 	left_div.classList.add("col-start-1", "pl-8");
 	let left_div_cost = document.createElement("div");

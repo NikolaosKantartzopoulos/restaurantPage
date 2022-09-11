@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'dancing';
+  src: url(./Dancing_Script/DancingScript-VariableFont_wght.ttf);
+  font-weight: 900;
+}

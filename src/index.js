@@ -55,7 +55,7 @@ allTabs.forEach((tab) => {
 	tab.classList.add(
 		"bg-amber-500",
 		"rounded-xl",
-		"h-8",
+		"h-10",
 		"w-20",
 		"grid",
 		"justify-center",

@@ -13,7 +13,7 @@ export let renderHomeTab = function () {
 	document.querySelector("#homeTabID").classList.add("bg-amber-500");
 	let pizzaHeader = document.createElement("h1");
 	pizzaHeader.textContent = "The best pizza in town!";
-	pizzaHeader.classList.add("text-center");
+	pizzaHeader.classList.add("text-center", "py-12");
 	let samplePizza = new Image();
 	samplePizza.src = pizzaMilano;
 	samplePizza.classList.add("m-auto");
