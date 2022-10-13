@@ -9,7 +9,8 @@ https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page
 
 ### Project's objective
 
-* Create a simple site, appending nodes using only JS.
+* Create an one page site, appending nodes using JS on a single existing element in index.html.
+* First project created using Webpack.
 
 ### See it live!
 https://nikolaoskantartzopoulos.github.io/restaurantPage
