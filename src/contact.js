@@ -2,6 +2,7 @@ import * as helperFunctions from "./helperFunctions";
 export let renderContactTab = function () {
 	helperFunctions.resetMainBoard();
 	mainBoard.classList.add(
+		"text-lg",
 		"grid",
 		"grid-cols-2",
 		"items-center",

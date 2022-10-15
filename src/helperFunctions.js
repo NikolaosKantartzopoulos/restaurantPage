@@ -10,7 +10,7 @@ export function resetMainBoard() {
 export function create3RowMenuTab(appendToNode, a, b, c) {
 	for (let i = 0; i < 3; i++) {
 		let temp = document.createElement("div");
-		temp.classList.add("w-25", "h-10");
+		temp.classList.add("text-lg");
 		switch (i) {
 			case 0:
 				temp.textContent = a;
